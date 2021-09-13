@@ -1,0 +1,8 @@
+.vscode/settings.json
+target/
+message_in.xml
+message_out.xml
+pdf/*.pdf
+.settings/
+.classpath
+.project

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:Richiesta6001 xmlns:ns2="http://sogei.it/ANPR/6001certificazione">
+	<testataRichiesta>
+		<idOperazioneComune>000005</idOperazioneComune>
+		<codMittente>888231</codMittente>
+		<codDestinatario>ANPR02</codDestinatario>
+		<operazioneRichiesta>6001</operazioneRichiesta>
+		<dataOraRichiesta>2021-02-17T10:20:11.543+02:00</dataOraRichiesta>
+		<tipoOperazione>C</tipoOperazione>
+		<tipoInvio>FREE</tipoInvio>
+		<dataDefinizionePratica>2021-04-14</dataDefinizionePratica>
+	</testataRichiesta>
+	<listaTipiCertificati>
+		<tipoCertificato>1</tipoCertificato>
+	</listaTipiCertificati>
+	<soggettoIntestatario>
+		<generalita>
+			<cognome>PITZALIS</cognome>
+			<nome>ROBERTA</nome>
+		</generalita>
+	</soggettoIntestatario>
+	<datiControllo>
+		<cognomeUffAnagrafe>PIPPO</cognomeUffAnagrafe>
+		<nomeUffAnagrafe>PAPERINO</nomeUffAnagrafe>
+		<tipoRichiedente>2</tipoRichiedente>
+		<tipoRichiesta>1</tipoRichiesta>
+		<paEstera>0</paEstera>
+		<emissione>1</emissione>
+		<bollo>0</bollo>
+		<bolloVirtuale>2</bolloVirtuale>
+		<diritti>0</diritti>
+	</datiControllo>
+</ns2:Richiesta6001>
